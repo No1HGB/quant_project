@@ -4,6 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+numpy = "*"
+pandas = "==2.2.3"
+yahoo-finance = "==1.4.0"
 
 [dev-packages]
 
